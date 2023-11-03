@@ -17,7 +17,7 @@
 
 - 📫 Reach me **chukkalacharanteja9@gmail.com**
 
-<h3 align="left">Connect with me on:</h3>
+# 🌐 Connect me on:
 <p align="left">
 <a href="https://linkedin.com/in/charan teja chukkala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charan teja chukkala" height="30" width="40" /></a>
 <a href="https://instagram.com/_charan_teja7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_charan_teja7" height="30" width="40" /></a>
