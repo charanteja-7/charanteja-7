@@ -1,4 +1,3 @@
-
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Charan Teja Chukkala</h1>
 <h3 align="center">A passionate programmer and developer</h3>
