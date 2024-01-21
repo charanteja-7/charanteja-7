@@ -16,7 +16,7 @@
 
 # 🌐 Connect me on:
 <p align="left">
-<a href="https://linkedin.com/in/charan teja chukkala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charan teja chukkala" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/charanteja177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charan teja chukkala" height="30" width="40" /></a>
 <a href="https://instagram.com/_charan_teja7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_charan_teja7" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/charan_teja_7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="charan_teja_7" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/charan_teja_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="charan_teja_7" height="30" width="40" /></a>
