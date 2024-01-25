@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charanteja-7&label=Profile%20views&color=0e75b6&style=flat" alt="charanteja-7" /> </p>
 
-- 🔭 I’m currently working on **File translator website**
-
 - 🌱 I’m currently learning **Javascript**
 
 - 🤝 I’m looking for help with **Translation api's**
